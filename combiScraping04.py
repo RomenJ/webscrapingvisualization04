@@ -12,7 +12,9 @@ from spacy import displacy
 #url = 'https://www.python.org/~guido/'
 #url='https://www.thetimes.co.uk/'
 
-url='https://www.nasa.gov/'
+#url='https://www.nasa.gov/'
+url='https://www.cdc.gov/index.htm'
+
 # Realizar la solicitud y obtener la respuesta
 response = requests.get(url)
 
